@@ -9,6 +9,12 @@ Currently Making Project Using:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+
+
+![With](https://forthebadge.com/images/badges/made-with-kotlin.svg)
+![For](https://forthebadge.com/images/badges/built-for-android.svg)
+![its](https://forthebadge.com/images/badges/for-you.svg)
+
 Other Favourite Tools:
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -25,5 +31,11 @@ Programming Languages:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-My Profile Views:        
-![GitWar](https://gitwar.herokuapp.com/badge?username=SweetyAnime&color=bluestyle=flat-square)
+
+My Current Stats:
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetyAnime&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetyAnime&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SweetyAnime&theme=transparent)
