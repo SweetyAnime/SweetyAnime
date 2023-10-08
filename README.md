@@ -1,7 +1,4 @@
-### Hi! Did You Drink Enough Water🤔?
-
-Sup! I'm Nirmal Kumar
-Just An Common Man Trying To Live A Life I'll Remember😇
+/header.png
 
 Currently Making Project Using:
 
