@@ -1,4 +1,4 @@
-/header.png
+![header](https://github.com/SweetyAnime/SweetyAnime/blob/main/header.png?raw=true)
 
 Currently Making Project Using:
 
