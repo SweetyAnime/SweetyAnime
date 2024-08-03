@@ -38,7 +38,3 @@ My Current Stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SweetyAnime&theme=transparent)
 
 
-
-https://drive.google.com/drive/folders/15jegy0DXAnmu0cwoIul5Bf4JAwPgL9Ki
-
-
