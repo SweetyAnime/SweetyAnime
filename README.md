@@ -6,12 +6,6 @@ Currently Making Project Using:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-
-
-![With](https://forthebadge.com/images/badges/made-with-kotlin.svg)
-![For](https://forthebadge.com/images/badges/built-for-android.svg)
-![its](https://forthebadge.com/images/badges/for-you.svg)
-
 Other Favourite Tools:
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
