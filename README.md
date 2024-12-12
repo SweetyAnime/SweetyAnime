@@ -35,6 +35,4 @@ My Current Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetyAnime&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SweetyAnime&theme=transparent)
-
 
