@@ -23,7 +23,7 @@ Programming Languages:
 
 My Current Stats:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetyAnime&show_icons=true&theme=transparent)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetyAnime&theme=transparent)
 
