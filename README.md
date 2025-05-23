@@ -1,5 +1,3 @@
-![header]!(https://github.com/SweetyAnime/S//weetyAnime/blob/main/header.png?raw=true)
-
 Currently Making Project Using:
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
