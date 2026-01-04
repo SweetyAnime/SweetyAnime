@@ -1,8 +1,9 @@
-<h1 align="center">Hey 👋, I'm nk</h1>
+<h1 align="center">Hi 👋 I'm nk</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=AI+%26+Data+Science+Student;Android+%7C+Web+%7C+AI+Project+Builder;Learning+by+Building+Real+Things;Still+Figuring+Things+Out" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+projects+to+actually+understand+things;Android+%7C+Web+%7C+AI+Experiments;Learning+slowly%2C+but+properly" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SweetyAnime&label=Profile%20Views&color=38BDF8&style=flat" />
@@ -85,30 +86,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SweetyAnime&show_icons=true&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SweetyAnime&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SweetyAnime&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SweetyAnime&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetyAnime&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetyAnime&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/SweetyAnime/SweetyAnime/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/SweetyAnime/SweetyAnime/output/github-contribution-grid-snake.svg)
+
 
 ---
-
-## ✨ Philosophy
-
-> I don’t chase perfection.  
-> I build, break, learn, and rebuild.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7C3AED&height=100&section=footer"/>
-</p>
