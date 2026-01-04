@@ -1,10 +1,6 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#39d353;">nk</span>
+  Hi💛 I'm <span style="color:#39d353;">nk</span>
 </h1>
-
-<p align="center">
-  <b>AI & Data Science Student</b> · Android · Web · AI
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=39d353&center=true&vCenter=true&width=650&lines=Learning+by+building+projects;Trying+to+understand+systems%2C+not+just+syntax" />
