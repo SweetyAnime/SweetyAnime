@@ -98,7 +98,8 @@
 
 ## 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/SweetyAnime/SweetyAnime/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/SweetyAnime/SweetyAnime/output/snake.svg)
+
 
 
 ---
