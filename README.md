@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm nk</h1>
+<h1 align="center">Hi 💛 I'm nk</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+projects+to+actually+understand+things;Android+%7C+Web+%7C+AI+Experiments;Learning+slowly%2C+but+properly" />
@@ -86,16 +86,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SweetyAnime&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SweetyAnime&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SweetyAnime&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SweetyAnime&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetyAnime&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
