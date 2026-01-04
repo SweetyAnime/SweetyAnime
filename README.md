@@ -1,62 +1,114 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm nk</h1>
 
-  # Hi there, I'm <a href="https://github.com/SweetyAnime">SweetyAnime</a>! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=AI+%26+Data+Science+Student;Android+%7C+Web+%7C+AI+Project+Builder;Learning+by+Building+Real+Things;Still+Figuring+Things+Out" />
+</p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Python+Enthusiast;UI%2FUX+Designer;Creative+Coder&center=true&width=500&height=50&color=33ccff&vCenter=true&pause=1000" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SweetyAnime&label=Profile%20Views&color=38BDF8&style=flat" />
+</p>
 
-  <br/>
+---
 
-  <p>
-    Welcome to my profile! I am passionate about building mobile applications and exploring data. <br/> 
-    Currently focused on creating seamless Android experiences.
-  </p>
+## 🧠 About Me
 
-  <br/>
+- 🎓 B.Tech **AI & Data Science**
+- 🛠️ I learn by **building projects**, not memorizing syntax
+- 🤖 Interested in **AI Assistants, Android Apps & Web**
+- 🧩 Multiple experiments > perfect projects
+- 🌱 Improving quietly, one repo at a time
 
-  <h2>🚀 Tech Stack & Tools</h2>
+---
 
-  <h3>📱 Mobile & Design</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </p>
+## 🚀 Highlight Projects
 
-  <h3>💻 Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </p>
+### 🃏 Invocation Battle Cards
+> A card-based battle system project focused on mechanics, logic, and progression.
 
-  <h3>🛠️ Workflow & Productivity</h3>
-  <p>
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/>
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
-  </p>
+- 🔧 Tech: Logic Design, Game Mechanics, Frontend Basics  
+- 🎯 Focus: Gameplay systems & structure  
+- 🔗 Repo: https://github.com/SweetyAnime/invocation-battle-cards
 
-  <br/>
+---
 
-  <h2>📊 My GitHub Stats</h2>
+### 🤖 Alpha Buddy *(Private Project)*
+> A personal AI assistant built for experimentation and learning.
 
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetyAnime&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SweetyAnime&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </a>
-  </div>
+- 🔧 Tech: Python, AI APIs, Automation  
+- 🧠 Focus: AI interaction & assistant workflows  
+- 🔒 Status: Private (code not public)
 
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=SweetyAnime&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Overall Stats" />
+---
 
-</div>
+### 🛒 SwiftBuy *(Private Project)*
+> An experimental e-commerce website project.
+
+- 🔧 Tech: Web stack, UI flow, backend basics  
+- 🧠 Focus: Real-world web application structure  
+- 🔒 Status: Private (code not public)
+
+---
+
+## 🛠️ Currently Making Projects Using
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+</p>
+
+---
+
+## 🧰 Other Favourite Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SweetyAnime&show_icons=true&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SweetyAnime&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetyAnime&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/SweetyAnime/SweetyAnime/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ✨ Philosophy
+
+> I don’t chase perfection.  
+> I build, break, learn, and rebuild.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7C3AED&height=100&section=footer"/>
+</p>
