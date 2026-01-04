@@ -1,12 +1,18 @@
-<h1 align="center">Hi 💛 I'm nk</h1>
+<h1 align="center">
+  Hi, I'm <span style="color:#39d353;">nk</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+projects+to+actually+understand+things;Android+%7C+Web+%7C+AI+Experiments;Learning+slowly%2C+but+properly" />
+  <b>AI & Data Science Student</b> · Android · Web · AI
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=39d353&center=true&vCenter=true&width=650&lines=Learning+by+building+projects;Trying+to+understand+systems%2C+not+just+syntax" />
 </p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SweetyAnime&label=Profile%20Views&color=38BDF8&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SweetyAnime&label=visitors&color=39d353&style=for-the-badge" />
 </p>
 
 ---
