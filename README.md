@@ -15,11 +15,11 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech **AI & Data Science**
-- 🛠️ I learn by **building projects**, not memorizing syntax
-- 🤖 Interested in **AI Assistants, Android Apps & Web**
-- 🧩 Multiple experiments > perfect projects
-- 🌱 Improving quietly, one repo at a time
+- 🎓 B.Tech in AI & Data Science
+- 🤖 Passionate about Local AI, LLMs & Intelligent Systems
+- 🛠️ I learn by building real-world projects
+- 💻 Interested in AI Assistants, Android & Full-Stack Development
+- 🌱 Always experimenting, always improving
 
 ---
 
@@ -34,11 +34,18 @@
 
 ---
 
-### 🤖 Alpha Buddy *(Private Project)*
-> A personal AI assistant built for experimentation and learning.
+### 🌸 AprilGPT
 
-- 🔧 Tech: Python, AI APIs, Automation  
-- 🧠 Focus: AI interaction & assistant workflows  
+> An offline AI desktop assistant powered by local LLMs with persistent memory, semantic retrieval, tool execution, and a natural conversational experience.
+
+- 🔧 Tech: Python, llama.cpp, Local LLMs, Flask, HTML/CSS/JS
+- 🧠 Features:
+  - Offline AI with local inference
+  - Persistent long-term memory
+  - Semantic + lexical memory retrieval
+  - Tool execution & desktop automation
+  - Modern desktop interface
+- 🎯 Focus: Local AI, Memory Systems, LLM Engineering
 - 🔒 Status: Private (code not public)
 
 ---
